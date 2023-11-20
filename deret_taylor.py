@@ -36,4 +36,3 @@ ax.plot(x, cos_taylor, 'bo', label='cos(x) Taylor')
 
 # menampilkan hasil
 st.pyplot(fig)
-st.caption("AFIF GANTENG")
